@@ -4,3 +4,6 @@
 [submodule "Enquiry_bot_GROQ"]
 	path = Enquiry_bot_GROQ
 	url = https://github.com/Zem-0/Enquiry_bot_GROQ.git
+[submodule "basic_chatbot"]
+	path = basic_chatbot
+	url = https://github.com/Zem-0/basic_chatbot.git
